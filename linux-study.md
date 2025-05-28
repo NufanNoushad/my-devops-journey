@@ -16,4 +16,29 @@ After gaining the basics, I wanted to practice real-world Linux skills, so I sta
 I played through the levels and successfully reached **Level 12**, tackling challenges that made me comfortable with:
 
 - Navigating the Linux filesystem  
-- Understanding file permi
+- Understanding file permissions and ownership  
+- Using text processing commands like `grep`, `cat`, and `awk`  
+- Working with SSH and remote connections  
+- Scripting basics and more  
+
+This hands-on practice made the theoretical knowledge from the FreeCodeCamp course stick and gave me practical problem-solving skills.
+
+---
+
+## Key Takeaways
+
+- Linux command line is powerful and flexible — mastering it opens many doors in DevOps.  
+- Practicing through challenges (like OverTheWire) is the best way to learn and remember commands.  
+- Don’t rush — take your time exploring commands and reading their manuals (`man <command>`).  
+- Consistency is key: even 20 minutes a day helps build muscle memory.
+
+---
+
+## What’s Next
+
+I plan to deepen my Linux knowledge by applying it during projects and learning as I go.
+
+---
+
+*Happy to share more updates as I progress!*
+
