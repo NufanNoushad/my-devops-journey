@@ -19,7 +19,8 @@ Because it’s the perfect blend of software engineering, infrastructure, and au
 This repo is my living log. I'll be regularly updating it with notes, projects, mini-guides, and things I wish I knew when I started.
 If you're also exploring DevOps, feel free to follow along or contribute!
 
-📌 Goals
+📌 Goals:
+
 Build a strong foundation in DevOps tools and concepts
 
 Work on real-world-style mini projects
