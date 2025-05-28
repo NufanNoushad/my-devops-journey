@@ -1,4 +1,4 @@
-🚀 my-devops-journey
+🚀 Documenting my DevOps learning journey
 
 Hey there! 👋
 I'm currently diving deep into DevOps fundamentals during my first-year summer break as a SWE student. Rather than spreading myself thin, I’ve decided to niche down early — and DevOps is the tech path I’m committing to.
