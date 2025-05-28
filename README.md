@@ -3,8 +3,8 @@
 Hey there! 👋
 I'm currently diving deep into DevOps fundamentals during my first-year summer break as a SWE student. Rather than spreading myself thin, I’ve decided to niche down early — and DevOps is the tech path I’m committing to.
 
-**Why DevOps?
-**Because it’s the perfect blend of software engineering, infrastructure, and automation — and I’m all about building smart, scalable systems.
+Why DevOps?
+Because it’s the perfect blend of software engineering, infrastructure, and automation — and I’m all about building smart, scalable systems.
 
 🌱 What I’m Learning So Far:
 🐧 Linux – mastering the shell like a pro
